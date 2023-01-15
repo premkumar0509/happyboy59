@@ -55,6 +55,10 @@ ___
 
 #### Most used Language 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyboy59&show_icons=true&locale=en&layout=compact" alt="Happyboy69" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Happyboy59&" alt="Happyboy59" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyBoy05&layout=compact)](https://github.com/HappyBoy59)
 <br />
 <br />
