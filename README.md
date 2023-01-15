@@ -22,12 +22,6 @@
 -->
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://t.me/happyboy59)[![telegrambadge](https://img.shields.io/badge/HappyBoy-30302f?style=flat&logo=telegram)](https://telegram.dog/HappyBoy59)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/9vjjvkwxwh32j7s9r8dee3yto">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
 #### 🥰 My Hobbies 
 
 ```
@@ -70,4 +64,4 @@ ___
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HappyBoy05#version3"/>
   </a>
 </p>
-<a href="https://github.com/HappyBoy59"><img alt="Happy Boy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HappyBoy05&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
