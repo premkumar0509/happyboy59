@@ -46,26 +46,16 @@
 
 #### 🔰 Current Status
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=HappyBoy59&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=HappyBoy59&hide=prs&count_private=true&show_icons=true&theme=algolia)]
 
 ___
-
-
 
 
 #### Most used Language 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyboy59&show_icons=true&locale=en&layout=compact" alt="Happyboy69" /></p>
+<br />
+<br />
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Happyboy59&" alt="Happyboy59" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyBoy05&layout=compact)](https://github.com/HappyBoy59)
-<br />
-<br />
-
-<p align="center">
-  <a href="https://github.com/HappyBoy59">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HappyBoy05#version3"/>
-  </a>
-</p>
-
