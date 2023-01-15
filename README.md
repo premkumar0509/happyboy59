@@ -47,7 +47,7 @@
 #### 🔰 Current Status
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=HappyBoy59&hide=prs&count_private=true&show_icons=true&theme=algolia)]
-<p><img align="center" src="(https://github-readme-stats.vercel.app/api?username=HappyBoy59&hide=prs&count_private=true&show_icons=true&theme=algolia" alt="Happyboy59" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HappyBoy59&hide=prs&count_private=true&show_icons=true&theme=algolia" alt="Happyboy59" /></p>
 ___
 
 
