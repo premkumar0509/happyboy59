@@ -47,13 +47,13 @@
 #### 🔰 Current Status
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=HappyBoy59&hide=prs&count_private=true&show_icons=true&theme=algolia)]
-
+<p><img align="center" src="(https://github-readme-stats.vercel.app/api?username=HappyBoy59&hide=prs&count_private=true&show_icons=true&theme=algolia" alt="Happyboy59" /></p>
 ___
 
 
 #### Most used Language 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyboy59&show_icons=true&locale=en&layout=compact" alt="Happyboy69" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyboy59&show_icons=true&locale=en&layout=compact" alt="Happyboy59" /></p>
 <br />
 <br />
 
