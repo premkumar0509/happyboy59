@@ -44,6 +44,10 @@
     </a>
 </p>
 
+#### 🔰 Current Status
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=HappyBoy59&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### Most used Language 
 
