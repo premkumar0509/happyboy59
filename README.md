@@ -4,7 +4,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Prem</h1>
-<h3 align="center">A passionate eveloper from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happyboy59&label=Profile%20views&color=0e75b6&style=flat" alt="happyboy59" /> </p>
 
@@ -44,38 +44,13 @@
 
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
--->
-[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://t.me/happyboy59)[![telegrambadge](https://img.shields.io/badge/HappyBoy-30302f?style=flat&logo=telegram)](https://telegram.dog/HappyBoy59)
-
-#### 🥰 My Hobbies 
-
-```
-⚜️ HOBBIES 
-
-👉 Music
-
-👉 Editing
-
-👉 Exploring
-
-👉 Gaming
-
-👉 Loading...
-```
-
 <p align="center">
     <a href="https://t.me/HappyBoy59">
         <img alt="GPL3" src ="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" width="300" height="300"/>
     </a>
 </p>
 
-#### 🔰 Current Status
+#### Current Status
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=HappyBoy59&hide=prs&count_private=true&show_icons=true&show_owne=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -86,5 +61,5 @@
 <br />
 <br />
 
-
+#### Github Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Happyboy59&" alt="Happyboy59" /></p>
