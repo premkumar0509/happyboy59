@@ -33,9 +33,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyboy59&show_icons=true&locale=en&layout=compact" alt="happyboy59" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=happyboy59&show_icons=true&locale=en" alt="happyboy59" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=happyboy59&show_icons=true&locale=en" alt="happyboy59" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=happyboy59&" alt="happyboy59" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=happyboy59&" alt="happyboy59" /></p>
 
 
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HappyBoy59/)
