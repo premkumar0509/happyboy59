@@ -16,7 +16,7 @@
 
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HappyBoy59/)
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HappyBoy69}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HappyBoy59}/count.svg" /></p> 
 
 
 
