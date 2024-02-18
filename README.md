@@ -7,7 +7,12 @@
 
 <img src="https://badgen.net/badge/TheyCallMe/HappyBoy/FF33FF?icon=awesome&labelColor=0080FF"></a> 
 
-<img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a> 
+<img src="https://badgen.net/badge/Skills/AL/Red?icon=terminal&labelColor=blue"></a> 
+<img src="https://badgen.net/badge/Skills/CAL/Red?icon=terminal&labelColor=blue"></a> 
+<img src="https://badgen.net/badge/Skills/SQL/Red?icon=terminal&labelColor=blue"></a> 
+<img src="https://badgen.net/badge/Skills/PowerPlatform/Red?icon=terminal&labelColor=blue"></a> 
+<img src="https://badgen.net/badge/Skills/Azure/Red?icon=terminal&labelColor=blue"></a> 
+<img src="https://badgen.net/badge/Skills/Git/Red?icon=terminal&labelColor=blue"></a> 
 
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HappyBoy59/)
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
