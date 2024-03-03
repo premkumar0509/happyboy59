@@ -58,7 +58,7 @@
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-line-wordmark.svg" alt="vercel" width="40" height="40"/> </a> 
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/vercel-line-wordmark.svg" alt="netlify" width="40" height="40"/> </a> 
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original-wordmark.svg" alt="netlify" width="40" height="40"/> </a> 
 <a href="https://railway.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original-wordmark.svg" alt="railway" width="40" height="40"/> </a> 
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflareworkers/cloudflareworkers-original-wordmark.svg" alt="cloudflareworkers" width="40" height="40"/> </a> 
 </p>
