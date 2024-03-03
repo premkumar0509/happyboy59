@@ -54,7 +54,7 @@
 <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original-wordmark.svg" alt="replit" width="40" height="40"/> </a> 
 <a href="https://www.gitpod.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitpod/gitpod-original-wordmark.svg" alt="gitpod" width="40" height="40"/> </a>
 <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/> </a>
-<a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen/codepen-line-wordmark.svg" alt="codepen" width="40" height="40"/> </a> 
+<a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-line-wordmark.svg" alt="codepen" width="40" height="40"/> </a> 
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-line-wordmark.svg" alt="vercel" width="40" height="40"/> </a> 
