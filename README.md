@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Power App, Power Pages, and Power Automate**
 
-- 💬 Ask me about **AL, CAL**
+- 💬 Ask me about **AL, CAL, RDLC, SSRS, Power BI, Powershell, Power Apps, Power Automate**
 
 - 📫 How to reach me **premkumar.r.0509@outlook.in**
 
