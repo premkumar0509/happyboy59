@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **AL, CAL, MS SQL,RDLC, SSRS, Power BI, Powershell, Power Apps, Power Automate**
 
-- 📫 How to reach me **premkumar.r.0509@outlook.in**
+- 📫 Reach me **premkumar.r.0509@outlook.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
